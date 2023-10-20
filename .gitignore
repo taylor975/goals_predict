@@ -1,0 +1,6 @@
+# Data files
+*.csv
+# Reference code
+Reference_Code.ipynb
+# Checkpoints
+.pynb_checkpoints/
