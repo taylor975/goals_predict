@@ -41,3 +41,13 @@ Working with API calls was a new experience for me; writing the code needed to c
 ### 💾 [Data Collection]
 Data collection is still ongoing and is being ran in batches of 5,000 player IDs at a time.
 
+
+## 🚶 Next Steps
+
+- [ ] Finish data collection
+- [ ] Check for duplicates, remove unnecessary columns
+- [ ] Fix null values
+- [ ] Add era adjusted scoring feature
+- [ ] Adjust values in shortened seasons (lockouts, COVID)
+
+
