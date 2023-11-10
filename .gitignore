@@ -1,6 +1,12 @@
 # Data files
 *.csv
+*.xlsx
+*.gif
 # Reference code
 Reference_Code.ipynb
+Preprocessing_EDA_2.ipynb
+Preprocessing_EDA.ipynb
+Data_Collect_bonus.ipynb
+Data_Collection.ipynb
 # Checkpoints
 .ipynb_checkpoints/
