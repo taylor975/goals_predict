@@ -90,3 +90,5 @@ Even with hyperparameter tuning and the +/-2 goal margin of error, the optimized
 - [ ] Engineer a feature that captures a player's goal output relative to the output of their teammates for a given season - this could help provide the model with the desired context about the quality of a player's teammates, which I hoped to achieve by encoding the franchise names into individual features
 - [ ] Try running the full cleaned dataset, including the encoded franchise names, through a neural network and see if it can derive some additional context through deep learning, and achieve a higher prediction accuracy
 - [ ] One of the potential use cases envisioned for this model was to help sports bettors place winning bets on how many goals a player will score in the coming season.  Though the model's prediction accuracy is not as high as hoped, the predictions can be compared to sportsbook odds to score its effectiveness as a sports betting tool.
+
+
